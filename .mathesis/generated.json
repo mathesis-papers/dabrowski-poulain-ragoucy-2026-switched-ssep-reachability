@@ -1,0 +1,36 @@
+{
+  "generated_paths": [
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "CONTRIBUTING.md",
+    "LICENSES/CC-BY-4.0.txt",
+    "README.md",
+    "formalization/nodes.json",
+    "manuscript/switched-ssep-note-v2/README.md",
+    "manuscript/switched-ssep-note-v2/metadata.json",
+    "manuscript/switched-ssep-note-v2/note.tex",
+    "manuscript/switched-ssep-note-v2/verification.json",
+    "manuscript/switched-ssep-note-v2/verify.py",
+    "paper.json",
+    "paper.pdf",
+    "source.archive"
+  ],
+  "generator_version": "0.1.0",
+  "sha256": {
+    "CHANGELOG.md": "407ac4da26f78d1fd3d5a50cbe27be127b7eb67887c8a3bd65a2381d6904de58",
+    "CITATION.cff": "eb11b617382700257ef04a1332e553ec91aa8d5ea0c2d4ac73db4b3087e60bb6",
+    "CONTRIBUTING.md": "fafd66e63160b2a88f433af56d2af2b0f7bf6ed2fd417d46b54446ce07c627ff",
+    "LICENSES/CC-BY-4.0.txt": "58230517b7895aa219ff46a6ed63e67057a1582fb9ea054b16728a8c13525650",
+    "README.md": "921020d37816f7104d0467fbbf325ccdd5309e0cf546de5832e5226aa859fdba",
+    "formalization/nodes.json": "ea2afe1b1f87ba83feb6d1b67f02cec27519276c71280f9859fcc1da7cf8930d",
+    "manuscript/switched-ssep-note-v2/README.md": "15c8e52b8c97abc3a8d875ae46a8c2c0ac4363b8a97d9a5c4e36408258fd91cd",
+    "manuscript/switched-ssep-note-v2/metadata.json": "681eaf918ea0ba465a69de093548199bf6a0f03fd22bb64527aaf9ef223fa27d",
+    "manuscript/switched-ssep-note-v2/note.tex": "f92427076971b8ec09acae079ef591534db0a8393847d40acf8ec2be063aae85",
+    "manuscript/switched-ssep-note-v2/verification.json": "1061b3be14e70e390acf87f3d3fbef58a6547a76806880e68927a58c8100892e",
+    "manuscript/switched-ssep-note-v2/verify.py": "1878e0aac6a15791d5477e4818cb3feebcbc476893fe752cac8047465e506acd",
+    "paper.json": "f14b866fe52959831c93bbd41ce1016362f5f79bcab423c54ff8eae6abdd729e",
+    "paper.pdf": "232d94056136f7fbc910327f61221a125af1d5edfe92fa28db37f073b36fa588",
+    "source.archive": "d4eaebae8df16f010e5196e699c12d0af8dee2fba49da46fabae5af8c08f1d66"
+  },
+  "snapshot_identity": "d914b3421c2f6128be9242cf40cb44ee6c54fa0c38a8ec0fd731bb1f98ffa919"
+}
