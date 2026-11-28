@@ -31,6 +31,7 @@
     "concept_doi": "10.5281/zenodo.24488516",
     "current_version": 2,
     "doi": "10.5281/zenodo.24488517",
+    "kind": "note",
     "lean_source": {
       "revision": "6bfc394bbd5147de839dd2116b985b438fcae8cf",
       "url": "https://github.com/the-omega-institute/trureturing/blob/6bfc394bbd5147de839dd2116b985b438fcae8cf/D5/S3/StatisticalMechanics/ParticleProcesses/SwitchedTwistedSSEP.lean"
@@ -55,10 +56,12 @@
     "title": "Switching reachability in twisted exclusion processes: extensions of Dabrowski, Poulain d'Andecy and Ragoucy's sector classification",
     "versions": [
       {
+        "changelog": null,
         "previous_version": null,
         "published_on": "2026-11-25T15:33:29.501800670Z",
         "revision": "2",
-        "version": 2
+        "version": 2,
+        "version_label": null
       }
     ],
     "work": "dabrowski-poulain-ragoucy-2026-switched-ssep-reachability"
